@@ -18,6 +18,7 @@ Looking for a **1-year apprenticeship starting autumn 2026** (1 week school / 2 
 | [smart-farm-iot-security](https://github.com/bidanessyidrissa45-ops/smart-farm-iot-security) | An IoT system built insecure, attacked and analysed, then secured step by step (AES-GCM, tokens, anti-replay, ACLs, monitoring) |
 | [linux-hardening-lab](https://github.com/bidanessyidrissa45-ops/linux-hardening-lab) | Personal lab: SSH key-only access, fail2ban, ufw firewall, logging |
 | [grc-templates](https://github.com/bidanessyidrissa45-ops/grc-templates) | Study templates: risk register, GDPR processing register, ISO 27001 checklist, password policy |
+| [weka-association-rules](https://github.com/bidanessyidrissa45-ops/weka-association-rules) | Machine learning with the Weka Java API: Apriori association rules, J48, preprocessing and performance benchmark |
 | [cyber-law-notes](https://github.com/bidanessyidrissa45-ops/cyber-law-notes) | Cyber law study notes (FR/EU): Code pénal 323-1 et s., GDPR, NIS 2, DORA, Cyber Resilience Act, legal framework for pentesting |
 
 ## 🎓 Certifications & training
