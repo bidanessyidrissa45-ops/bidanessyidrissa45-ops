@@ -28,6 +28,10 @@ Looking for a **1-year apprenticeship starting autumn 2026** (1 week school / 2 
 - TryHackMe: Pre Security (done), Cyber Security 101 (in progress)
 - 🎯 Preparing: ISO 27001 Foundation, CompTIA Security+
 
+## 💼 Freelance
+
+Web developer (auto-entrepreneur) at [**Lunyce.fr**](https://lunyce.fr): 3 client websites delivered, from quote to delivery, including maintenance, SEO and application security (input validation, SQL injection prevention).
+
 ## 🛠️ Tools
 
 `Linux` `Wireshark` `nmap` `fail2ban` `ufw` `Active Directory` `Python` `SQL` `Excel` `Git`
